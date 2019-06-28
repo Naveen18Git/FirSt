@@ -2,4 +2,4 @@
 
 #Welcome to GitHUb
 
-#Every thing will become easy
+#Every thing will be easy
