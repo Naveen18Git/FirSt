@@ -11,3 +11,13 @@ Successfully Finished
 
 
 Result generated:
+
+
+compile time error
+
+
+program executed 
+
+Run time error
+
+Time complete
