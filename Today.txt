@@ -21,3 +21,10 @@ program executed
 Run time error
 
 Time complete
+
+
+time to have dinner ;
+
+dinner is very spicy;
+
+Hot drinks are Good;
